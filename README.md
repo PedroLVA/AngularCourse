@@ -1,4 +1,4 @@
-# PlacePicker
+# EasyTalk
 Meu primeiro projeto feito em Angular com o auxílio de um curso na Udemy.
 
 A aplicação permite: Visualizar todos os colaboradores de forma dinâmica; visualizar suas respectivas tasks; adicionar tasks para o colaborador selecionado e, por fim, completá-las. (as tasks ficam salvas no local storage)
